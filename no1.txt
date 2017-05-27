@@ -1,1 +1,4 @@
-xxx
+$ git learnGit
+$ git pwd
+$ git status
+$ git diff no1.txt
